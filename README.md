@@ -7,7 +7,7 @@
 3. Understanding Reported Rape Statistics in India: Time Trends, State Patterns, and Limits of Inference
 
 ## Strong Final Project Title (Recommended)
-**Reported Rape Cases in India (2001–Latest Available): Trends, Reporting Dynamics, Legal Outcomes, and Evidence-Based Limits**
+**Reported Rape Cases in India (2001–Latest Available): Trends, Reporting Patterns, Legal Outcomes, and Evidence-Based Limits**
 
 ## Narrowed Research Scope (Recommended)
 - Primary focus: **reported rape cases under IPC (and clearly labeled legal definitions/time changes)** using NCRB/state-level data.
@@ -164,7 +164,7 @@ For each case:
 
 ## 19) Question Answerability Matrix
 | Question Type | Status | Why |
-|---|---|---|
+| --- | --- | --- |
 | National yearly trend in reported rape cases | **Answerable** | Directly available in NCRB annual data |
 | State-wise comparison of reported rates | **Answerable** | NCRB + population denominator |
 | Annual increase/decrease percentages | **Answerable** | Computable from yearly totals |
